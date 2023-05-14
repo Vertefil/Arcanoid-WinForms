@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\bin\Debug\net7.0-windows\WinFormsGame.exe
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\bin\Debug\net7.0-windows\WinFormsGame.deps.json
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\bin\Debug\net7.0-windows\WinFormsGame.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\bin\Debug\net7.0-windows\WinFormsGame.dll
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\bin\Debug\net7.0-windows\WinFormsGame.pdb
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.Form1.resources
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.dll
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\refint\WinFormsGame.dll
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.pdb
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\WinFormsGame.genruntimeconfig.cache
+C:\Users\user\source\repos\WinFormsGame\WinFormsGame\obj\Debug\net7.0-windows\ref\WinFormsGame.dll
