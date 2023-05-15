@@ -108,7 +108,7 @@ namespace WinFormsGame
 
             timer1.Interval = 90;
             player.score = 0;
-            player.lives = 5;
+            player.lives = 2;
             scoreLabel.Text = "Score: " + player.score;
             livesLabel.Text = "Lives: " + player.lives;
 
@@ -181,6 +181,25 @@ namespace WinFormsGame
             e.Graphics.FillEllipse(eB, 80, 10, 40, 40);
             e.Graphics.DrawLine(mP, 10, 80, 110, 80);
 
+        }
+
+
+        private void panel1_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                scoreLabel.BackColor = Color.SkyBlue;
+                livesLabel.BackColor = Color.SkyBlue;
+                panel1.BackColor = Color.SkyBlue;
+                BackColor = Color.SkyBlue;
+            }
+            if (e.Button == MouseButtons.Right)
+            {
+                scoreLabel.BackColor = Color.White;
+                livesLabel.BackColor = Color.White;
+                panel1.BackColor = Color.White;
+                BackColor = Color.White;
+            }
         }
     }
 }
